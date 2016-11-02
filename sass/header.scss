@@ -1,0 +1,15 @@
+
+
+header {
+	height:70px;
+	background: rgba(86,83,76,0.5);
+}
+
+.menu {
+	list-style: none;
+	display: inline-block;
+	
+	& li {
+		margin-left: 40px;
+	}
+}

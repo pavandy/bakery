@@ -1,0 +1,18 @@
+header {
+  height: 70px;
+  background: rgba(86, 83, 76, 0.5); }
+
+.menu {
+  list-style: none;
+  display: inline-block; }
+  .menu li {
+    margin-left: 40px; }
+
+body {
+  background: #FFF; }
+
+.container {
+  width: 1260px;
+  margin: 0 auto; }
+
+/*# sourceMappingURL=main.css.map */
